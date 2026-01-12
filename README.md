@@ -6,17 +6,22 @@ This repository contains the official implementation for the course project **"S
 
 We explore the capabilities of Foundation Models (DINOv2, SAM, Stable Diffusion) on the semantic correspondence task and propose a **Light Fine-tuning** strategy that significantly improves performance on the **SPair-71k** benchmark.
 
-## 👥 Team Members
-- **Student 1**: [Write ID Here]
-- **Student 2**: [Write ID Here]
-- **Student 3**: [Write ID Here]
+##  Team Members
+- **Student 1**: s346897 Ai Jinyu
+- **Student 2**: s348266 Zhang Shixu
+- **Student 3**: s336755 Li Hao 
 
 ---
 
-## 🛠️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Install Dependencies
 Ensure you have Python 3.8+ and PyTorch installed. Then run:
 
 ```bash
 pip install -r requirements.txt
+# Download the dataset
+wget [http://cvlab.postech.ac.kr/research/SPair-71k/data/SPair-71k.tar.gz](http://cvlab.postech.ac.kr/research/SPair-71k/data/SPair-71k.tar.gz)
+
+# Extract (This will create a 'SPair-71k' folder)
+tar -xvf SPair-71k.tar.gz
