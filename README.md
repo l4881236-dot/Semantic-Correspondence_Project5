@@ -7,9 +7,9 @@ This repository contains the official implementation for the course project **"S
 We explore the capabilities of Foundation Models (DINOv2, SAM, Stable Diffusion) on the semantic correspondence task and propose a **Light Fine-tuning** strategy that significantly improves performance on the **SPair-71k** benchmark.
 
 ##  Team Members
-- **Student 1**: s346897 Ai Jinyu
-- **Student 2**: s348266 Zhang Shixu
-- **Student 3**: s336755 Li Hao 
+- **Student 1**: s346897 Jinyu Ai 
+- **Student 2**: s348266 Shixu Zhang 
+- **Student 3**: s336755 Hao Li 
 
 ---
 
