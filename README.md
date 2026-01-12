@@ -25,3 +25,12 @@ wget [http://cvlab.postech.ac.kr/research/SPair-71k/data/SPair-71k.tar.gz](http:
 
 # Extract (This will create a 'SPair-71k' folder)
 tar -xvf SPair-71k.tar.gz
+### 2. Dataset Preparation (Crucial ⚠️)
+The project relies on the **SPair-71k** dataset. You must download and extract it into the root directory of this project.
+
+```bash
+# 1. Download the dataset
+wget http://cvlab.postech.ac.kr/research/SPair-71k/data/SPair-71k.tar.gz
+
+# 2. Extract it (This will create a folder named 'SPair-71k')
+tar -xvf SPair-71k.tar.gz
