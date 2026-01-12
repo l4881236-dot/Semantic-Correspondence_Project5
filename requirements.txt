@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+pandas
+scipy
+tqdm
+Pillow
+transformers
+diffusers
+accelerate
+git+https://github.com/facebookresearch/segment-anything.git
