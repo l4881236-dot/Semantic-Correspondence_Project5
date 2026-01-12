@@ -1,5 +1,5 @@
 # Semantic-Correspondence_Project5
-s346897_s348266_s336755_project5
+s346897_s336755_s348266_project5
 # Semantic Correspondence with Visual Foundation Models
 
 This repository contains the official implementation for the course project **"Semantic Correspondence with Visual Foundation Models"**.
@@ -8,8 +8,8 @@ We explore the capabilities of Foundation Models (DINOv2, SAM, Stable Diffusion)
 
 ##  Team Members
 - **Student 1**: s346897 Jinyu Ai 
-- **Student 2**: s348266 Shixu Zhang 
-- **Student 3**: s336755 Hao Li 
+- **Student 2**: s336755 Hao Li
+- **Student 3**: s348266 Shixu Zhang 
 
 ---
 
