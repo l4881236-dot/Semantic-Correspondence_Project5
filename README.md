@@ -18,12 +18,3 @@ Ensure you have Python 3.8+ and PyTorch installed. Then run:
 
 ```bash
 pip install -r requirements.txt
-###2. Dataset Preparation
-# 1. Download the dataset
-wget [http://cvlab.postech.ac.kr/research/SPair-71k/data/SPair-71k.tar.gz](http://cvlab.postech.ac.kr/research/SPair-71k/data/SPair-71k.tar.gz)
-
-# 2. Extract it (This will create a folder named 'SPair-71k')
-tar -xvf SPair-71k.tar.gz
-###3. Download Model Checkpoints
-# Download SAM weights to the root directory
-wget [https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth)
