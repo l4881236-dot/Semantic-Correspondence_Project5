@@ -26,12 +26,12 @@ NUM_SAMPLES = None
 
 
 # ----------------------------------------------------------
-# 🔥 FORCE GPU (CUDA)
+# Device setup
 if not torch.cuda.is_available():
     raise RuntimeError("CUDA is NOT available!")
 
 DEVICE = torch.device("cuda")
-print("✅ Using GPU:", torch.cuda.get_device_name(0))
+print(" Using GPU:", torch.cuda.get_device_name(0))
 
 
 # ----------------------------------------------------------
